@@ -1,0 +1,728 @@
+@charset "utf-8";
+
+body {
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	line-height: 1.3em;
+
+	font-size: 14px;
+
+	color: #4f4f4f;
+
+	background: #f4fbff url(file://///Dpsmacserver/common/Website%20Development/images/blue/body_bg.png) top repeat-x;
+
+}
+
+a {
+
+	color: #3795cf;
+
+}
+
+h2, h3, h4 {
+
+	color: #3795cf;
+
+}
+
+h2 {
+
+	font-weight: bold;
+
+	font-size: 2.5em;
+
+	line-height: 1em;
+
+	margin: 10px 0 15px 0;
+
+	padding: 0;
+
+}
+
+h3 {
+
+	font-weight: bold;
+
+	font-size: 2.0em;
+
+	line-height: 1em;
+
+	margin: 10px 0 15px 0;
+
+	padding: 0;
+
+}
+
+h4 {
+
+	font-weight: bold;
+
+	font-size: 1.5em;
+
+	margin: 10px 0 15px 0;
+
+	padding: 0;
+
+}
+
+h5 {
+
+	font-weight: bold;
+
+	font-size: 1em;
+
+	margin: 10px 0 15px 0;
+
+	padding: 0;
+
+}
+
+p {
+
+	margin: 10px 0 15px 0;
+
+	padding: 0;
+
+}
+
+#frame {
+
+	width: 866px;
+
+	margin: 13px auto;
+
+	padding: 5px;
+
+	border: 1px solid #8ad1ff;
+
+	background: #FFFFFF;
+
+}
+
+#header {
+
+	position: relative;
+
+	height: 100px;
+
+	background: #8BD0FF url(file://///Dpsmacserver/common/Website%20Development/images/blue/header_bg.png) bottom repeat-x;
+
+}
+
+#vertical #header {
+
+	position: relative;
+
+	height: 121px;
+
+	border-bottom: 2px solid #FFF;
+
+	background-position: top;
+
+}
+
+#header h1 {
+
+	position: absolute;
+
+	top: 7px;
+
+	left: 7px;
+
+	margin: 0;
+
+	padding: 0;
+
+	background: transparent url(file://///Dpsmacserver/common/Website%20Development/images/h1_bg.png) left top no-repeat;
+
+	width: 209px;
+
+	height: 141px;
+
+}
+
+#header h1 a {
+
+	display: block;
+
+	height: 37px;
+
+	width: 182px;
+
+	margin: 46px 0 0 15px;
+
+	background:url(file://///Dpsmacserver/common/Website%20Development/images/content/logo.gif) top left no-repeat;
+
+	text-indent: -999em;
+
+	overflow: hidden;
+
+	padding: 0;
+
+}
+
+#navigation{
+
+	height: 21px;
+
+	background: #8BD0FF;
+
+	margin: 0;
+
+	padding: 0;
+
+	list-style: none;
+
+	text-align: right;
+
+	border-bottom: 2px solid #FFF;
+
+}
+
+#vertical #navigation{
+
+	height: auto;
+
+	width: 188px;
+
+	float: left;
+
+	background: none;
+
+	margin: 0;
+
+	padding: 35px 0 0 0;
+
+	list-style: none;
+
+	text-align: right;
+
+	border-bottom: none;
+
+}
+
+#navigation li {
+
+	display: inline;
+
+	margin: 0;
+
+	padding: 0;
+
+}
+
+#vertical #navigation li {
+
+	display: block;
+
+	margin: 0;
+
+	padding: 0;
+
+}
+
+#navigation li a {
+
+	color: #FFFFFF;
+
+	padding: 0 10px;
+
+	font-weight: bold;
+
+	text-transform: uppercase;
+
+	text-decoration: none;
+
+}
+
+#vertical #navigation li a {
+
+	display: block;
+
+	padding: 10px;
+
+	border-bottom: 1px solid #c0e7ff;
+
+}
+
+#navigation li a:hover {
+
+	text-decoration: underline;
+
+}
+
+#vertical #navigation li a:hover {
+
+	background: #78c1ee;
+
+}
+
+#content {
+
+	padding: 35px 20px;
+
+	background: url(file://///Dpsmacserver/common/Website%20Development/images/content_bg.png) top repeat-x;
+
+}
+
+#vertical #content {
+
+	width: 636px;
+
+	float: right;
+
+}
+
+#content .columnwide{
+
+	width: 450px;
+
+	float: left;
+
+	margin-right: 15px;
+
+}
+
+#content .column{
+
+	width: 300px;
+
+	float: left;
+
+	margin-right: 15px;
+
+}
+
+#vertical #container {
+
+	background: url(file://///Dpsmacserver/common/Website%20Development/images/blue/vmenu_bg.png) left repeat-y;
+
+}
+
+a.more {
+
+	text-decoration: none;
+
+	display: block;
+
+	border-bottom: 1px solid #3795cf;
+
+	text-align: right;
+
+	clear: both;
+
+}
+
+dl.contact {
+
+	padding: 0;
+
+	margin: 0;
+
+	width: 300px;
+
+}
+
+dl.contact dt {
+
+	display: block;
+
+	float: left;
+
+	width: 100px;
+
+	text-transform: uppercase;
+
+	color: #3795cf;
+
+	font-weight: bold;
+
+	padding: 0;
+
+	margin: 0;
+
+}
+
+dl.contact dd {
+
+	display: block;
+
+	float: left;
+
+	width: 200px;
+
+	padding: 0;
+
+	margin: 0;
+
+}
+
+ul.images {
+
+	padding: 0;
+
+	margin: 0;
+
+	list-style: none;
+
+}
+
+ul.images li{
+
+	padding: 0;
+
+	margin: 10px 0;
+
+}
+
+.alignleft {
+
+	float: left;
+
+	padding-right: 10px;
+
+}
+
+.alignright {
+
+	float: right;
+
+	padding-left: 10px;
+
+}
+
+.job h3 {
+
+	margin-bottom: 5px;
+
+	padding-bottom: 5px;
+
+}
+
+.job dl {
+
+	padding: 0;
+
+	margin: 0;
+
+	width: 600px;
+
+}
+
+.job dl dt {
+
+	display: block;
+
+	float: left;
+
+	width: 150px;
+
+	text-transform: uppercase;
+
+	color: #3795cf;
+
+	font-weight: bold;
+
+	padding: 5px 0 0 0;
+
+	margin: 0;
+
+}
+
+.job dl dd {
+
+	display: block;
+
+	float: left;
+
+	width: 400px;
+
+	padding: 5px 0 0 0;
+
+	margin: 0;
+
+}
+
+.job p {
+
+	clear: both;
+
+	padding: 10px 0 30px 0;
+
+}
+
+#footer {
+
+	clear: both;
+
+	background: #def2ff;
+
+	padding: 4px;
+
+	text-align: center;
+
+	border-top: 2px solid #FFF;
+
+}
+
+#footer p {
+
+	margin: 0;
+
+	padding: 0;
+
+	color: #3795cf;
+
+	font-size: 0.9em;
+
+}
+
+#footer a {
+
+	text-decoration: none;
+
+}
+
+/*---------------------------------- SAGE ------------------------------------------*/
+
+body.sage {
+
+	background: #f4faf2 url(file://///Dpsmacserver/common/Website%20Development/images/sage/body_bg.png) top repeat-x;
+
+}
+
+.sage a, .sage h2, .sage h2, .sage h4, .sage #footer p, .sage dl.contact dt, .sage .job h3, .sage .job dl dt {
+
+	color: #7ca26d;
+
+}
+
+#vertical.sage #navigation li a:hover {
+
+	background: #7ca26d;
+
+}
+
+.sage #frame {
+
+	border: 1px solid #99bb8c;
+
+}
+
+.sage #header {
+
+	background: #a7ca99 url(file://///Dpsmacserver/common/Website%20Development/images/sage/header_bg.png) bottom repeat-x;
+
+}
+
+.sage #navigation {
+
+	background: #a7ca99;
+
+}
+
+#vertical.sage #container {
+
+	background: url(file://///Dpsmacserver/common/Website%20Development/images/sage/vmenu_bg.png) left repeat-y;
+
+}
+
+#vertical.sage #navigation li a {
+
+	border-bottom: 1px solid #d1e8c7;
+
+}
+
+.sage a.more {
+
+	border-bottom: 1px solid #a8cb9b;
+
+}
+
+.sage #footer {
+
+	background: #e6f0e2;
+
+}
+
+/*---------------------------------- GRASS ------------------------------------------*/
+
+body.grass {
+
+	background: #f1fce9 url(file://///Dpsmacserver/common/Website%20Development/images/grass/body_bg.png) top repeat-x;
+
+}
+
+.grass a, .grass h2, .grass h2, .grass h4, .grass #footer p, .grass dl.contact dt, .grass .job h3, .grass .job dl dt {
+
+	color: #95ce6f;
+
+}
+
+#vertical.grass #navigation li a:hover {
+
+	background: #95ce6f;
+
+}
+
+.grass #frame {
+
+	border: 1px solid #9be760;
+
+}
+
+.grass #header {
+
+	background: #b3e294 url(file://///Dpsmacserver/common/Website%20Development/images/grass/header_bg.png) bottom repeat-x;
+
+}
+
+.grass #navigation {
+
+	background: #b3e294;
+
+}
+
+#vertical.grass #container {
+
+	background: url(file://///Dpsmacserver/common/Website%20Development/images/grass/vmenu_bg.png) left repeat-y;
+
+}
+
+#vertical.grass #navigation li a {
+
+	border-bottom: 1px solid #d1e8c7;
+
+}
+
+.grass a.more {
+
+	border-bottom: 1px solid #a8cb9b;
+
+}
+
+.grass #footer {
+
+	background: #e2f8d1;
+
+}
+
+/*---------------------------------- STEEL ------------------------------------------*/
+
+body.steel {
+
+	background: #f0f5f8 url(file://///Dpsmacserver/common/Website%20Development/images/steel/body_bg.png) top repeat-x;
+
+}
+
+.steel a, .steel h2, .steel h2, .steel h4, .steel #footer p, .steel dl.contact dt, .steel .job h3, .steel .job dl dt {
+
+	color: #8299a7;
+
+}
+
+#vertical.steel #navigation li a:hover {
+
+	background: #a9c2d5;
+
+}
+
+.steel #frame {
+
+	border: 1px solid #c0d3e1;
+
+}
+
+.steel #header {
+
+	background: #c1d4e2 url(file://///Dpsmacserver/common/Website%20Development/images/steel/header_bg.png) bottom repeat-x;
+
+}
+
+.steel #navigation {
+
+	background: #c1d4e2;
+
+}
+
+#vertical.steel #container {
+
+	background: url(file://///Dpsmacserver/common/Website%20Development/images/steel/vmenu_bg.png) left repeat-y;
+
+}
+
+#vertical.steel #navigation li a {
+
+	border-bottom: 1px solid #eaf5f9;
+
+}
+
+.steel a.more {
+
+	border-bottom: 1px solid #a0bacd;
+
+}
+
+.steel #footer {
+
+	background: #eff4f7;
+
+}
+
+/*-------------------- Lightbox -----------*/
+
+#lightbox{	position: absolute;	left: 0; width: 100%; z-index: 100; text-align: center; line-height: 0;}
+
+#lightbox img{ width: auto; height: auto;}
+
+#lightbox a img{ border: none; }
+
+
+
+#outerImageContainer{ position: relative; background-color: #fff; width: 250px; height: 250px; margin: 0 auto; }
+
+#imageContainer{ padding: 10px; }
+
+
+
+#loading{ position: absolute; top: 40%; left: 0%; height: 25%; width: 100%; text-align: center; line-height: 0; }
+
+#hoverNav{ position: absolute; top: 0; left: 0; height: 100%; width: 100%; z-index: 10; }
+
+#imageContainer>#hoverNav{ left: 0;}
+
+#hoverNav a{ outline: none;}
+
+
+
+#prevLink, #nextLink{ width: 49%; height: 100%; background-image: url(data:image/gif;base64,AAAA); /* Trick IE into showing hover */ display: block; }
+
+#prevLink { left: 0; float: left;}
+
+#nextLink { right: 0; float: right;}
+
+#prevLink:hover, #prevLink:visited:hover { background: url(file://///Dpsmacserver/common/Website%20Development/images/prevlabel.gif) left 15% no-repeat; }
+
+#nextLink:hover, #nextLink:visited:hover { background: url(file://///Dpsmacserver/common/Website%20Development/images/nextlabel.gif) right 15% no-repeat; }
+
+
+
+#imageDataContainer{ font: 10px Verdana, Helvetica, sans-serif; background-color: #fff; margin: 0 auto; line-height: 1.4em; overflow: auto; width: 100%	; }
+
+
+
+#imageData{	padding:0 10px; color: #666; }
+
+#imageData #imageDetails{ width: 70%; float: left; text-align: left; }	
+
+#imageData #caption{ font-weight: bold;	}
+
+#imageData #numberDisplay{ display: block; clear: left; padding-bottom: 1.0em;	}			
+
+#imageData #bottomNavClose{ width: 66px; float: right;  padding-bottom: 0.7em; outline: none;}	 	
+
+
+
+#overlay{ position: absolute; top: 0; left: 0; z-index: 90; width: 100%; height: 500px; background-color: #000; }
+

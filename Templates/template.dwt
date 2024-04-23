@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns="http://www.w3.org/1999/xhtml"> <head> <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> <title>Sisters of Our Lady of China</title> <link href="../style/screen.css" rel="stylesheet" type="text/css" /> <script type="text/javascript" src="../scripts/prototype.js"></script> <script type="text/javascript" src="../scripts/scriptaculous.js?load=effects,builder"></script> <script type="text/javascript" src="../scripts/lightbox.js"> rel="stylesheet" type="text/css" />
+</head>  
+<body id="vertical" class="blue"> <div id="frame"> 	<div id="header">    		<h1><a href="../index.html">Sisters of Our Lady of China</a></h1>     </div>   <div id="container">   <ul id="navigation">     	<li><a href="../index.html">Home</a></li>         <li><a href="../about.html">About Us</a></li>         <li><a href="../vision.html">Our Vision</a></li>         <li><a href="../Peakhurst.html">Peakhurst Lodge</a></li><li><a href="../Ruby.html">Ruby Manor</a></li>         <li><a href="../Pembroke.html">Pembroke Lodge</a></li>  <li><a href="../Services.html">Services</a></li>      <li><a href="../employment.html">Employment</a>  <li><a href="../contact.html">Contact Us</a></li>         <li><a href="../links.html">Links</a></li>   </ul><body>
+    <!-- TemplateBeginEditable name="EditRegion1" -->
+    <div id="content">
+      <h2>Home</h2>
+      <h5>The Aged Care Guide website is owned and operated by DPS Publishing Pty Ltd, which is responsible for publications such as CARE, Care at Home and also launched the DPS Guide to Aged Care in 1998 in direct response to the needs of consumers for a comprehensive reference source to enable them to make an informed choice about the type of aged care accommodation to meet their needs. Our highly interactive website is the on-line version of the DPS Guide to Aged Care publication and complements the printed publication beautifully.</h5>
+      <p>DPS Publishing focuses entirely on the consumer market and meeting the needs of the aged care industry to provide information to older people and their families, carers and friends requiring accommodation, community care and professional services.</p>
+      <p>DPS Publishing is based in Adelaide, South Australia. DPS Publishing Pty Ltd was formed in 1998 by David Murray Smith and David Baker, hence the reason behind the acronym DPS: (David's Publishing Services).</p>
+      <h4>Contact Us</h4>
+      <dl class="contact">
+        <dt>Address:</dt>
+        <dd>
+          <address>
+            DPS Publishing<br />
+            673 Marion Road<br />
+            Ascot Park SA 5043
+          </address>
+        </dd>
+        <dt>Phone:</dt>
+        <dd>(08) 8276 7999</dd>
+        <dt>Fax:</dt>
+        <dd>(08) 8276 6300</dd>
+        <dt>Email:</dt>
+        <dd><a href="mailto:info@agedcareguide.com.au">info@agedcareguide.com.au</a></dd>
+        <dt>Web:</dt>
+        <dd><a href="http://www.agedcareguide.com.au">www.agedcareguide.com.au</a></dd>
+      </dl>
+      <br style="clear:both" />
+    </div>
+    <!-- TemplateEndEditable -->
+    <div id="footer">     	<p>&copy; Copyright 2009 DPS Publishing</p>         <p><a href="http://www.agedcareguide.com.au">www.agedcareguide.com.au</a></p>     </div>   </div> </div> </body> </html> 
