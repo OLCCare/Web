@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns="http://www.w3.org/1999/xhtml"> <head> <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Peakhurst Lodge - Sisters of Our Lady of China</title><meta name="keywords" content="peakhurst lodge, facility, aged care, henry lawson drive, peakhurst, elderly, respite, low care, high care, old folks, sister of our lady of china, new south wales" />
+
+<!-- TemplateEndEditable -->
+<link href="style/screen.css?v=2" rel="stylesheet" type="text/css" /> 
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<meta name="Keywords" content="peakhurst lodge, peakhurst, new south wales, sydney aged care, henry lawson drive, sisters of our lady of china, demnetia, low care, high care, ageing in place, old folks home, facility, aged care work" />
+</head>  
+<body id="vertical" class="blue"> <div id="frame">   <div id="header">        <h1 class="images"><a href="index.html">Sisters of Our Lady of China</a></h1>     </div>   <div id="container">   <ul id="navigation">       <li><a href="index.html">Home</a></li>         <li><a href="about.html">About Us</a></li>         <li><a href="vision.html">Our Vision</a></li>         <li><a href="tours.html">Virtual Tours</a></li> <li><a href="services.html">Services</a></li>      <li><a href="employment.html">Employment</a></li>  <li><a href="contact.html">Contact Us</a></li>         <li><a href="links.html">Links</a></li>   </ul>
+    <!-- TemplateBeginEditable name="EditRegion1" -->
+    <div id="content">
+      <h2>Peakhurst Lodge</h2>
+      <p><a href="images/peakhurst/courtyard.JPG" rel="lightbox"><img src="images/peakhurst/courtyard2.JPG" alt="Courtyard" width="280" height="186" align="right" border="0"/></a>Peakhurst Lodge has been operated by The Sisters of Our Lady of China since 1984. The facility provides nursing, personal care and diversional activities to anyone requiring high care and or low care nursing. Placement is regardless of race, religion, colour or creed.</p>
+      <p>After going through major construction and renovation in the past few years, Peakhurst Lodge now cares for 71 high care residents and 39 low care residents in a safe, comfortable and home like environment with a team of caring and dedicated staff.</p>
+      <p>The 71-bed high care section has been extended and fully renovated including a 14-bed secure dementia specific section. All our 39 low care hostel beds are single rooms with ensuite. </p>
+      <p>Each room has quality furnishings, built-in wardrobes, a bar fridge and tea making facilities. Most general section rooms have a balcony opening to the courtyard. A 12-bed section offers a secured environment to cater for the special needs of dementia residents.</p>
+      <a href="images/peakhurst/sitting-room.JPG" rel="lightbox"><img src="images/peakhurst/sitting-room2.JPG" alt="Lounge" width="295" height="187" align="left" border="0"/></a><a href="images/peakhurst/foyer.JPG" rel="lightbox"><img src="images/peakhurst/foyer2.JPG" alt="Foyer" width="282" height="187" align="right" border="0"/></a></p>
+      <p>&nbsp;</p>
+      
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>The courtyard and gardens have been beautifully landscaped, they provide a safe, peaceful outdoor environment for residents to enjoy with family and other residents. </p>
+      <p>Lifts provide easy access to both levels of the building. There are a number of activity rooms, lounge rooms and dining rooms in each of the sections. A spacious general activity room and a chapel are built for all residents to enjoy activities, church service and prayers.
+     </p>
+      <p><h4>Peakhurst Lodge</h4>
+        16-18 Henry Lawson Drive, Peakhurst NSW 2210<br />
+        <strong>Phone</strong>: (02) 9533 4089<br />
+        <strong>Fax</strong>: (02) 9533 4068 <br />
+      <strong>Email</strong>: <a href="mailto:info@ourladyofchina.org.au">info@ourladyofchina.org.au</a></p>
+    
+    <div class="floatcont">
+    <p class="floatleft vt_btn peak"><a href="/tours/peakhurst_lodge/index.html" class="cboxElement">View Virtual Tour</a></p>
+    <p class="floatleft vt_btn"><a href="/pdf/Our-Lady-of-China-Peakhurst-Lodge.pdf" target="_blank">View pricing information (PDF)</a></p>
+    </div>
+    
+<p>&nbsp;</p>
+      <p><a href="images/peakhurst/garden2.JPG" rel="lightbox"><img src="images/peakhurst/garden4.JPG" alt="Garden" width="271" height="180" align="left" border="0" /></a> <a href="images/peakhurst/room.JPG" rel="lightbox"><img src="images/peakhurst/room4.JPG" alt="Bedroom" width="280" height="186" border="0" align="right" /></a><br />
+      </p>
+    
+    
+    </div>
+    <!-- TemplateEndEditable -->
+    <div id="footer">       <p>&copy; Copyright The Sisters of Our Lady of China</p>   </div>   </div> </div>
+  
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+  <script type="text/javascript" src="scripts/jquery.colorbox-min.js" /></script>
+
+  <script type="text/javascript" >
+  $(document).ready(function(){
+  
+    $("a[rel='lightbox']").colorbox();
+    
+    $('.peak a').colorbox({href:"/tours/peakhurst_lodge/index.html",iframe:true,scrolling:false,innerWidth:480,innerHeight:635});
+
+  });
+  </script>
+  
+  </body> </html>
